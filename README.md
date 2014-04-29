@@ -1,4 +1,4 @@
-Pulse_Flash
+PulseFlash
 ===========
 
 Minimalistic Flashlight app!
